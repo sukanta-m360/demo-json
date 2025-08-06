@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "message": "All services",
+  "data": [
+    {
+      "title": "The 25 Healthiest Fruits you can Eat, According to a Nutritionist",
+      "image": "https://images.pexels.com/photos/3652097/pexels-photo-3652097.jpeg",
+      "date_time": "June 10, 2025",
+      "bookmark": false
+    },
+    {
+      "title": "The 25 Healthiest Fruits you can Eat, According to a Nutritionist",
+      "image": "https://images.pexels.com/photos/3652097/pexels-photo-3652097.jpeg",
+      "date_time": "June 10, 2025",
+      "bookmark": false
+    },
+
+     {
+      "title": "The 25 Healthiest Fruits you can Eat, According to a Nutritionist",
+      "image": "https://images.pexels.com/photos/3652097/pexels-photo-3652097.jpeg",
+      "date_time": "June 10, 2025",
+      "bookmark": false
+    },
+    {
+      "title": "The 25 Healthiest Fruits you can Eat, According to a Nutritionist",
+      "image": "https://images.pexels.com/photos/3652097/pexels-photo-3652097.jpeg",
+      "date_time": "June 10, 2025",
+      "bookmark": false
+    },
+
+    {
+      "title": "The 25 Healthiest Fruits you can Eat, According to a Nutritionist",
+      "image": "https://images.pexels.com/photos/3652097/pexels-photo-3652097.jpeg",
+      "date_time": "June 10, 2025",
+      "bookmark": false
+    },
+
+    {
+      "title": "The 25 Healthiest Fruits you can Eat, According to a Nutritionist",
+      "image": "https://images.pexels.com/photos/3652097/pexels-photo-3652097.jpeg",
+      "date_time": "June 10, 2025",
+      "bookmark": false
+    }
+
+
+  ]
+}
