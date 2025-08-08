@@ -1,0 +1,55 @@
+[
+  {
+    "category": "Main company activity",
+    "subcategories": [
+        "Activity",
+         "Accommodation", 
+         "Associations",
+         "Business & Corporate Travel",
+         "Destination Management Company (DMC)",
+         "Marketing",
+         "MICE",
+         "Press/Media",
+         "Transport",
+         "Technology",
+         "Ticketing",
+         "Tourism Board",
+         "Tour Operator",
+         "Travel Agencies & OTA's"
+        ]
+  },
+  {
+    "category": "Main geographic region",
+    "subcategories": [
+        "Africa", 
+        "Asia",
+        "Australasia",
+        "Central America",
+        "North America",
+        "South America",
+        "Europe",
+        "Middle East",
+        "Antarctica"
+        ]
+  },
+  {
+    "category": "Product categories",
+    "subcategories": [
+        "Activity",
+         "Accommodation", 
+         "Associations",
+         "Business & Corporate Travel",
+         "Destination Management Company (DMC)",
+         "Marketing",
+         "MICE",
+         "Press/Media",
+         "Transport",
+         "Technology",
+         "Ticketing",
+         "Tourism Board",
+         "Tour Operator",
+         "Travel Agencies & OTA's"
+        ]
+  }
+ 
+]
