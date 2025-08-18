@@ -13,34 +13,35 @@
       "name": "Emargency Ambulance",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
       "number": "612-555-0123",
-      "distance": 100
+      "distance": 200
      
     },
    {
       "name": "Emargency Ambulance",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
       "number": "612-555-0123",
-      "distance": 100
+      "distance": 500
     },
    {
       "name": "Royal Prince Alfred Hospital",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
       "number": "612-555-0123",
-      "distance": 100
+      "distance": 400
     },
    {
       "name": "Royal Prince Alfred Hospital",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
       "number": "612-555-0123",
-      "distance": 100
+      "distance": 800
     },
    {
       "name": "Royal Prince Alfred Hospital",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
       "number": "612-555-0123",
-      "distance": 100
+      "distance": 250
     }
 
   ]
 }
+
 
