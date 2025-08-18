@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "message": "Hospital list fetched successfully",
+  "data": [
+    {
+      "name": "Dr. Marcus Horizon",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "speciality": "Cardiology",
+      "rating": 4.8
+    },
+   {
+      "name": "Dr. Stefi Jessi",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "speciality": "Cardiology",
+      "rating": 4.5
+    },
+   {
+      "name": "Dr. David Smith",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "speciality": "Neurology",
+      "rating": 4.5
+    },
+   {
+      "name": "Royal Prince Alfred Hospital",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "speciality": "Orthopedics",
+      "rating": 4.6
+    },
+   {
+      "name": "Royal Prince Alfred Hospital",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "speciality": "Pediatrics",
+      "rating": 4.8
+    },
+   {
+      "name": "Royal Prince Alfred Hospital",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "speciality": "Dermatology",
+      "rating": 4.9
+    }
+   
+    
+
+  ]
+}
