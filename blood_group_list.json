@@ -2,37 +2,52 @@
   "success": true,
   "message": "Blood group list fetched successfully",
   "data": [
-     {
-       "group": "A+",
-       "info": "Most common. Can donate to A+ and AB+."
-     },
-     {
-       "group": "A-",
-       "info": "Rare. Can donate to A-, A+, AB- and AB+."
-     },
-     {
-       "group": "B+",
-       "info": "Can donate to B+ and AB+."
-     },
-     {
-       "group": "B-",
-       "info": "Can donate to B-, B+, AB- and AB+."
-     },
-     {
-       "group": "O+",
-       "info": "Universal donor for positive types."
-     },
-     {
-       "group": "O-",
-       "info": "Universal donor for ALL blood groups."
-     },
-     {
-       "group": "AB+",
-       "info": "Universal recipient (can receive from anyone)."
-     },
-     {
-       "group": "AB-",
-       "info": "Can receive from A-, B-, AB-, and O-."
-     }
-   ]
+    {
+      "id": 1,
+      "name": "Red Cross Blood Bank",
+      "address": "50 Main Road, Dhaka, Bangladesh",
+      "contact": "+8801712345678",
+      "email": "redcross@example.com",
+      "available_groups": [
+        { "group": "A+", "units": 25 },
+        { "group": "A-", "units": 8 },
+        { "group": "B+", "units": 15 },
+        { "group": "B-", "units": 5 },
+        { "group": "O+", "units": 30 },
+        { "group": "O-", "units": 2 },
+        { "group": "AB+", "units": 10 },
+        { "group": "AB-", "units": 3 }
+      ],
+      "last_updated": "2025-08-18T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "City Hospital Blood Bank",
+      "address": "22 Green Road, Chattogram, Bangladesh",
+      "contact": "+8801911122233",
+      "email": "cityhospital@example.com",
+      "available_groups": [
+        { "group": "A+", "units": 12 },
+        { "group": "O+", "units": 18 },
+        { "group": "B+", "units": 7 },
+        { "group": "AB+", "units": 4 }
+      ],
+      "last_updated": "2025-08-18T11:15:00Z"
+    },
+    {
+      "id": 3,
+      "name": "National Blood Center",
+      "address": "75 Hospital Road, Sylhet, Bangladesh",
+      "contact": "+8801555123456",
+      "email": "nationalblood@example.com",
+      "available_groups": [
+        { "group": "O-", "units": 5 },
+        { "group": "A-", "units": 6 },
+        { "group": "B-", "units": 4 },
+        { "group": "AB-", "units": 2 }
+      ],
+      "last_updated": "2025-08-18T09:45:00Z"
+    }
+  ]
 }
+
