@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "Ambulance list fetched successfully",
+  "data": [
+    {
+      "name": "Emargency Ambulance",
+      "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
+      "distance": 100
+      
+    },
+   {
+      "name": "Emargency Ambulance",
+      "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
+      "distance": 100
+     
+    },
+   {
+      "name": "Emargency Ambulance",
+      "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
+     "distance": 100
+    },
+   {
+      "name": "Royal Prince Alfred Hospital",
+      "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
+      "distance": 100
+    },
+   {
+      "name": "Royal Prince Alfred Hospital",
+      "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
+      "distance": 100
+    },
+   {
+      "name": "Royal Prince Alfred Hospital",
+      "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
+      "distance": 100
+    }
+
+  ]
+}
