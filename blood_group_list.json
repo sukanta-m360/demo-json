@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Blood group list fetched successfully",
+  "data": [
+     {
+       "group": "A+",
+       "info": "Most common. Can donate to A+ and AB+."
+     },
+     {
+       "group": "A-",
+       "info": "Rare. Can donate to A-, A+, AB- and AB+."
+     },
+     {
+       "group": "B+",
+       "info": "Can donate to B+ and AB+."
+     },
+     {
+       "group": "B-",
+       "info": "Can donate to B-, B+, AB- and AB+."
+     },
+     {
+       "group": "O+",
+       "info": "Universal donor for positive types."
+     },
+     {
+       "group": "O-",
+       "info": "Universal donor for ALL blood groups."
+     },
+     {
+       "group": "AB+",
+       "info": "Universal recipient (can receive from anyone)."
+     },
+     {
+       "group": "AB-",
+       "info": "Can receive from A-, B-, AB-, and O-."
+     }
+   ]
+}
