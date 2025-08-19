@@ -4,7 +4,7 @@
   "data": [
     {
       "id": 1,
-      "name": "Red Cross Blood Bank",
+      "name": "Quantum Blood Lab",
       "address": "50 Main Road, Dhaka, Bangladesh",
       "contact": "+8801712345678",
       "email": "redcross@example.com",
@@ -22,7 +22,7 @@
     },
     {
       "id": 2,
-      "name": "City Hospital Blood Bank",
+      "name": "Shadhin Blood Bank",
       "address": "22 Green Road, Chattogram, Bangladesh",
       "contact": "+8801911122233",
       "email": "cityhospital@example.com",
@@ -36,7 +36,7 @@
     },
     {
       "id": 3,
-      "name": "National Blood Center",
+      "name": "Dhaka Blood Bank and Transfusion Center",
       "address": "75 Hospital Road, Sylhet, Bangladesh",
       "contact": "+8801555123456",
       "email": "nationalblood@example.com",
@@ -50,4 +50,5 @@
     }
   ]
 }
+
 
