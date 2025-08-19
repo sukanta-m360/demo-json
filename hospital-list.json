@@ -3,7 +3,7 @@
   "message": "Hospital list fetched successfully",
   "data": [
     {
-      "name": "Royal Prince Alfred Hospital",
+      "name": "Ibrahim Cardiac",
       "image": "https://media.istockphoto.com/id/1058679916/vector/hospital-building-isolated-vector-illustration-flat-cartoon-modern-medical-center-or-clinic.jpg?s=612x612&w=0&k=20&c=i0R2zSdfuA3yaphldGTTGV66GpeYmjYeSPhoUTQXUjo=",
       "number": "612-555-0123",
       "location": "123 Health St, Wellness City, HC 45678",
@@ -12,7 +12,7 @@
       "bookmark": false
     },
     {
-      "name": "Royal Prince Alfred Hospital",
+      "name": "Bangladesh Specialized Hospital",
       "image": "https://media.istockphoto.com/id/1058679916/vector/hospital-building-isolated-vector-illustration-flat-cartoon-modern-medical-center-or-clinic.jpg?s=612x612&w=0&k=20&c=i0R2zSdfuA3yaphldGTTGV66GpeYmjYeSPhoUTQXUjo=",
       "number": "612-555-0123",
       "location": "123 Health St, Wellness City, HC 45678",
@@ -21,7 +21,7 @@
       "bookmark": false
     },
     {
-      "name": "Royal Prince Alfred Hospital",
+      "name": "PG Hospital",
       "image": "https://media.istockphoto.com/id/1058679916/vector/hospital-building-isolated-vector-illustration-flat-cartoon-modern-medical-center-or-clinic.jpg?s=612x612&w=0&k=20&c=i0R2zSdfuA3yaphldGTTGV66GpeYmjYeSPhoUTQXUjo=",
       "number": "612-555-0123",
       "location": "123 Health St, Wellness City, HC 45678",
@@ -30,7 +30,7 @@
       "bookmark": false
     },
     {
-      "name": "Royal Prince Alfred Hospital",
+      "name": "Anwer Khan Modern Hospital",
       "image": "https://media.istockphoto.com/id/1058679916/vector/hospital-building-isolated-vector-illustration-flat-cartoon-modern-medical-center-or-clinic.jpg?s=612x612&w=0&k=20&c=i0R2zSdfuA3yaphldGTTGV66GpeYmjYeSPhoUTQXUjo=",
       "number": "612-555-0123",
       "location": "123 Health St, Wellness City, HC 45678",
@@ -39,7 +39,7 @@
       "bookmark": false
     },
     {
-      "name": "Royal Prince Alfred Hospital",
+      "name": "International Medical College and Hospital",
       "image": "https://media.istockphoto.com/id/1058679916/vector/hospital-building-isolated-vector-illustration-flat-cartoon-modern-medical-center-or-clinic.jpg?s=612x612&w=0&k=20&c=i0R2zSdfuA3yaphldGTTGV66GpeYmjYeSPhoUTQXUjo=",
       "number": "612-555-0123",
       "location": "123 Health St, Wellness City, HC 45678",
@@ -48,7 +48,7 @@
       "bookmark": false
     },
     {
-      "name": "Royal Prince Alfred Hospital",
+      "name": "Evercare",
       "image": "https://media.istockphoto.com/id/1058679916/vector/hospital-building-isolated-vector-illustration-flat-cartoon-modern-medical-center-or-clinic.jpg?s=612x612&w=0&k=20&c=i0R2zSdfuA3yaphldGTTGV66GpeYmjYeSPhoUTQXUjo=",
       "number": "612-555-0123",
       "location": "123 Health St, Wellness City, HC 45678",
@@ -60,4 +60,5 @@
 
   ]
 }
+
 
