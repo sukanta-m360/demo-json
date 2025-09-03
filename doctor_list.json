@@ -3,9 +3,9 @@
   "message": "Hospital list fetched successfully",
   "data": [
     {
-      "name": "Dr. Marcus Horizon",
+      "name": "Dr. Murshidul Arefin",
       "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Murshidul-Arefin.jpg",
-      "speciality": "Cardiology",
+      "speciality": "Pancreatic and Liver Transplant Surgeon",
       "rating": 4.8
     },
    {
@@ -43,4 +43,5 @@
 
   ]
 }
+
 
