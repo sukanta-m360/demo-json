@@ -1,6 +1,6 @@
 {
   "success": true,
-  "message": "Hospital list fetched successfully",
+  "message": "Doctor list fetched successfully",
   "data": [
     {
       "name": "Dr. Murshidul Arefin",
@@ -9,33 +9,33 @@
       "rating": 4.8
     },
    {
-      "name": "Dr. Stefi Jessi",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
-      "speciality": "Cardiology",
+      "name": "Dr. Mohammad Aminul Islam",
+      "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Mohammad-Aminul-Islam.jpg",
+      "speciality": "Diabetes,Thyroid and Hormone Specialist",
       "rating": 4.5
     },
    {
-      "name": "Dr. David Smith",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
-      "speciality": "Neurology",
+      "name": "Dr. Adiba Chowdhury",
+      "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Adiba-Chowdhury.jpg",
+      "speciality": "General & Laparoscopic Surgeon",
       "rating": 4.5
     },
    {
-      "name": "Royal Prince Alfred Hospital",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
-      "speciality": "Orthopedics",
+      "name": "Dr. Md. Rakibul Islam Masud",
+      "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Md.-Rakibul-Islam-Masud.jpg",
+      "speciality": "Cancer Specialist",
       "rating": 4.6
     },
    {
-      "name": "Royal Prince Alfred Hospital",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
-      "speciality": "Pediatrics",
+      "name": "Dr. Imtiaz Hasan",
+      "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Imtiaz-Hasan.jpg",
+      "speciality": "Medicine Specialist & Cardiologist",
       "rating": 4.8
     },
    {
-      "name": "Royal Prince Alfred Hospital",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
-      "speciality": "Dermatology",
+      "name": "Dr. Monwoar Kabir Sumon",
+      "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Monwoar-Kabir-Sumon.jpg",
+      "speciality": "Braces & Aligner Specialist",
       "rating": 4.9
     }
    
@@ -43,5 +43,6 @@
 
   ]
 }
+
 
 
