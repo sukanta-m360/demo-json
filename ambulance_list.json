@@ -3,45 +3,46 @@
   "message": "Ambulance list fetched successfully",
   "data": [
     {
-      "name": "Emargency Ambulance",
+      "name": "Lamia Ambulance Service",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
-      "number": "612-555-0123",
+      "number": "9130800-19",
       "distance": 100
       
     },
    {
-      "name": "Emargency Ambulance",
+      "name": "Ural EMS",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
-      "number": "612-555-0123",
+      "number": "01969906555",
       "distance": 200
      
     },
    {
-      "name": "Emargency Ambulance",
+      "name": "Regent Hospital Ambulance Service",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
-      "number": "612-555-0123",
+      "number": "01728215630",
       "distance": 500
     },
    {
-      "name": "Royal Prince Alfred Hospital",
+      "name": "Al-Amin Ambulance Service",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
-      "number": "612-555-0123",
+      "number": "01720448666",
       "distance": 400
     },
    {
-      "name": "Royal Prince Alfred Hospital",
+      "name": "Abir Ambulance",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
-      "number": "612-555-0123",
+      "number": "01921189289",
       "distance": 800
     },
    {
-      "name": "Royal Prince Alfred Hospital",
+      "name": "Ad-Din and Conscious Ambulance",
       "image": "https://www.shutterstock.com/image-vector/emergency-medical-service-vehicle-ambulance-600nw-2455439761.jpg",
-      "number": "612-555-0123",
+      "number": "01787665907",
       "distance": 250
     }
 
   ]
 }
+
 
 
