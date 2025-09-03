@@ -6,12 +6,16 @@
       "title": "Why and when to get the tetanus vaccine",
       "image": "https://media.prothomalo.com/prothomalo-bangla%2F2025-09-01%2Ft9qi896m%2Fpexels-photo-3825529.jpg?rect=0%2C107%2C4500%2C3000&w=622&auto=format%2Ccompress&fmt=avif",
       "date_time": "September 01, 2025",
+      "description":"",
+      "publisher":"",
       "bookmark": false
     },
     {
       "title": "Symptoms that require taking a newborn to the doctor",
       "image": "https://media.prothomalo.com/prothomalo-bangla%2F2024-09-30%2F7ul69h8p%2Fphoto-1564172420073-e553c280b6f7.avif?rect=162%2C0%2C1746%2C1164&w=622&auto=format%2Ccompress&fmt=avif",
       "date_time": "August 28, 2025",
+      "description":"Newborns can easily become infected with various serious diseases up to three months after birth. There is also a risk of death. To avoid any health risks to the child, special vigilance and awareness of the guardian is required. If a newborn shows any unusual symptoms in his body and behavior, he should be taken to the doctor immediately, advised Alok Patel, a pediatrician and physician at Stanford Children's Hospital in the United States. Know the symptoms.",
+      "publisher":"",
       "bookmark": false
     },
 
@@ -19,12 +23,16 @@
       "title": "Do herbal products really work to cleanse the liver?",
       "image": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/2c5b/live/0b601110-6f99-11f0-af20-030418be2ca5.jpg.webp",
       "date_time": "August 15, 2025",
+       "description":"Beetroot, amla, and turmeric powder are being promoted as great remedies for liver cleansing or 'detoxing.' These products are being sold extensively online.The use of herbal or natural ingredients in medicine is not a new concept. Various natural ingredients have been used in medicine since ancient times.But the way these products are currently being marketed has led doctors, nutritionists, and even herbal product experts to be skeptical about their effectiveness."
+       "publisher":"Maryam Sultana",
       "bookmark": false
     },
     {
       "title": "What are alternative cancer treatments, do they work?",
       "image": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8b77/live/a97e5490-b79a-11ef-a0f2-fd81ae5962f4.jpg.webp",
       "date_time": "December 12, 2025",
+      "description":"",
+      "publisher":"",
       "bookmark": false
     },
 
@@ -32,6 +40,8 @@
       "title": "What to eat and what not to eat during extreme heat?",
       "image": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/3f0b/live/30efd8b0-fefd-11ee-bbc4-bd0343a5175d.jpg.webp",
       "date_time": "April 20, 2024",
+      "description":"",
+      "publisher":"",
       "bookmark": false
     },
 
@@ -39,9 +49,9 @@
       "title": "Side effects that may occur from taking antibiotics",
       "image": "https://ichef.bbci.co.uk/ace/ws/772/cpsprodpb/68b9/live/9b71f380-81ee-11ee-b4ac-8580f12d9d2d.jpg.webp",
       "date_time": "November 27, 2022",
+      "description":"",
+      "publisher":"",
       "bookmark": false
     }
-
-
   ]
 }
