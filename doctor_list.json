@@ -5,37 +5,37 @@
     {
       "name": "Dr. Murshidul Arefin",
       "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Murshidul-Arefin.jpg",
-      "speciality": "Pancreatic and Liver Transplant Surgeon",
+      "speciality": "Cardiologist",
       "rating": 4.8
     },
    {
       "name": "Dr. Mohammad Aminul Islam",
       "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Mohammad-Aminul-Islam.jpg",
-      "speciality": "Diabetes,Thyroid and Hormone Specialist",
+      "speciality": "Dermatologist",
       "rating": 4.5
     },
    {
       "name": "Dr. Adiba Chowdhury",
       "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Adiba-Chowdhury.jpg",
-      "speciality": "General & Laparoscopic Surgeon",
+      "speciality": "Neurologist",
       "rating": 4.5
     },
    {
       "name": "Dr. Md. Rakibul Islam Masud",
       "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Md.-Rakibul-Islam-Masud.jpg",
-      "speciality": "Cancer Specialist",
+      "speciality": "Pediatrician",
       "rating": 4.6
     },
    {
       "name": "Dr. Imtiaz Hasan",
       "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Imtiaz-Hasan.jpg",
-      "speciality": "Medicine Specialist & Cardiologist",
+      "speciality": "Neurologist",
       "rating": 4.8
     },
    {
       "name": "Dr. Monwoar Kabir Sumon",
       "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Monwoar-Kabir-Sumon.jpg",
-      "speciality": "Braces & Aligner Specialist",
+      "speciality": "Cardiologist",
       "rating": 4.9
     }
    
@@ -43,6 +43,7 @@
 
   ]
 }
+
 
 
 
