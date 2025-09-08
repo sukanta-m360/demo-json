@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Top Doctor list fetched successfully",
+  "data": [
+  {
+    "doctor_id": "DOC_BD_001",
+    "name": "Dr. Murshidul Arefin",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Murshidul-Arefin.jpg",
+    "specialization": "Gynecology & Obstetrics",
+    "hospital": "Apollo Hospitals Dhaka",
+    "rating": 4.8
+  },
+  {
+    "doctor_id": "DOC_BD_002",
+    "name": "Dr. Mohammad Aminul Islam",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Mohammad-Aminul-Islam.jpg",
+    "specialization": "Cardiology",
+    "hospital": "Square Hospital Ltd.",
+    "rating": 4.7
+  },
+  {
+    "doctor_id": "DOC_BD_003",
+    "name": "Dr. Adiba Chowdhury",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Adiba-Chowdhury.jpg",
+    "specialization": "Orthopedic Surgery",
+    "hospital": "Bangabandhu Sheikh Mujib Medical University (BSMMU)",
+    "rating": 4.6
+  },
+  {
+    "doctor_id": "DOC_BD_004",
+    "name": "Dr. Md. Rakibul Islam Masud",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Md.-Rakibul-Islam-Masud.jpg",
+    "specialization": "Pediatrics",
+    "hospital": "United Hospital Limited",
+    "rating": 4.9
+  },
+  {
+    "doctor_id": "DOC_BD_005",
+    "name": "Dr. Imtiaz Hasan",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Imtiaz-Hasan.jpg",
+    "specialization": "Medicine",
+    "hospital": "Ibn Sina Hospital",
+    "rating": 4.5
+  },
+  {
+    "doctor_id": "DOC_BD_006",
+    "name": "Dr. Monwoar Kabir Sumon",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Monwoar-Kabir-Sumon.jpg",
+    "specialization": "Dermatology",
+    "hospital": "Labaid Specialized Hospital",
+    "rating": 4.7
+  }
+]
+}
