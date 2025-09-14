@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Schedule list fetched successfully",
+  "data": [
+  {
+    "id": 1,
+    "doctorName": "Dr. A.K.M. Rahman",
+    "specialization": "Cardiologist",
+    "image": "assets/images/doctor1.jpg",
+    "hospital": "City Heart Hospital",
+    "date": "2025-09-20",
+    "time": "09:30 AM",
+    "status": "Upcoming"
+  },
+  {
+    "id": 2,
+    "doctorName": "Dr. Farzana Haque",
+    "specialization": "Gynecologist",
+    "image": "assets/images/doctor2.jpg",
+    "hospital": "NeuroCare Clinic",
+    "date": "2025-09-22",
+    "time": "03:00 PM",
+    "status": "Upcoming"
+  },
+  {
+    "id": 3,
+    "doctorName": "Dr. Mahmudul Hasan",
+    "specialization": "Neurologist",
+    "image": "assets/images/doctor1.jpg",
+    "hospital": "City Heart Hospital",
+    "date": "2025-09-20",
+    "time": "09:30 AM",
+    "status": "Upcoming"
+  },
+  {
+    "id": 4,
+    "doctorName": "Dr. Nusrat Jahan",
+    "specialization": "Pediatrician",
+    "image": "assets/images/doctor2.jpg",
+    "hospital": "NeuroCare Clinic",
+    "date": "2025-09-22",
+    "time": "03:00 PM",
+    "status": "Upcoming"
+  },
+    {
+    "id": 5,
+    "doctorName": "Dr. Shafiqul Islam",
+    "specialization": "Cardiologist",
+    "image": "assets/images/doctor1.jpg",
+    "hospital": "City Heart Hospital",
+    "date": "2025-09-20",
+    "time": "09:30 AM",
+    "status": "Upcoming"
+  },
+  {
+    "id": 6,
+    "doctorName": "Dr. Rehana Akter",
+    "specialization": "Neurologist",
+    "image": "assets/images/doctor2.jpg",
+    "hospital": "NeuroCare Clinic",
+    "date": "2025-09-22",
+    "time": "03:00 PM",
+    "status": "Upcoming"
+  }
+]
+}
