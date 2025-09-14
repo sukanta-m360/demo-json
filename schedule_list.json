@@ -10,7 +10,7 @@
     "hospital": "City Heart Hospital",
     "date": "2025-09-20",
     "time": "09:30 AM",
-    "status": "Upcoming"
+    "status": "Pending"
   },
   {
     "id": 2,
@@ -20,7 +20,7 @@
     "hospital": "NeuroCare Clinic",
     "date": "2025-09-22",
     "time": "03:00 PM",
-    "status": "Upcoming"
+    "status": "Pending"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "hospital": "City Heart Hospital",
     "date": "2025-09-20",
     "time": "09:30 AM",
-    "status": "Upcoming"
+    "status": "Accept"
   },
   {
     "id": 4,
@@ -40,7 +40,7 @@
     "hospital": "NeuroCare Clinic",
     "date": "2025-09-22",
     "time": "03:00 PM",
-    "status": "Upcoming"
+    "status": "Accept"
   },
     {
     "id": 5,
@@ -50,7 +50,7 @@
     "hospital": "City Heart Hospital",
     "date": "2025-09-20",
     "time": "09:30 AM",
-    "status": "Upcoming"
+    "status": "Accept"
   },
   {
     "id": 6,
@@ -60,7 +60,8 @@
     "hospital": "NeuroCare Clinic",
     "date": "2025-09-22",
     "time": "03:00 PM",
-    "status": "Upcoming"
+    "status": "Pending"
   }
 ]
 }
+
