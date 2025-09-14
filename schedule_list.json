@@ -6,7 +6,7 @@
     "id": 1,
     "doctorName": "Dr. A.K.M. Rahman",
     "specialization": "Cardiologist",
-    "image": "assets/images/doctor1.jpg",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Murshidul-Arefin.jpg",
     "hospital": "City Heart Hospital",
     "date": "2025-09-20",
     "time": "09:30 AM",
@@ -16,7 +16,7 @@
     "id": 2,
     "doctorName": "Dr. Farzana Haque",
     "specialization": "Gynecologist",
-    "image": "assets/images/doctor2.jpg",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Adiba-Chowdhury.jpg",
     "hospital": "NeuroCare Clinic",
     "date": "2025-09-22",
     "time": "03:00 PM",
@@ -26,7 +26,7 @@
     "id": 3,
     "doctorName": "Dr. Mahmudul Hasan",
     "specialization": "Neurologist",
-    "image": "assets/images/doctor1.jpg",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Mohammad-Aminul-Islam.jpg",
     "hospital": "City Heart Hospital",
     "date": "2025-09-20",
     "time": "09:30 AM",
@@ -36,7 +36,7 @@
     "id": 4,
     "doctorName": "Dr. Nusrat Jahan",
     "specialization": "Pediatrician",
-    "image": "assets/images/doctor2.jpg",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Adiba-Chowdhury.jpg",
     "hospital": "NeuroCare Clinic",
     "date": "2025-09-22",
     "time": "03:00 PM",
@@ -46,7 +46,7 @@
     "id": 5,
     "doctorName": "Dr. Shafiqul Islam",
     "specialization": "Cardiologist",
-    "image": "assets/images/doctor1.jpg",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Md.-Rakibul-Islam-Masud.jpg",
     "hospital": "City Heart Hospital",
     "date": "2025-09-20",
     "time": "09:30 AM",
@@ -56,7 +56,7 @@
     "id": 6,
     "doctorName": "Dr. Rehana Akter",
     "specialization": "Neurologist",
-    "image": "assets/images/doctor2.jpg",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Adiba-Chowdhury.jpg",
     "hospital": "NeuroCare Clinic",
     "date": "2025-09-22",
     "time": "03:00 PM",
@@ -64,4 +64,5 @@
   }
 ]
 }
+
 
