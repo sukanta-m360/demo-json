@@ -5,50 +5,69 @@
   {
     "doctor_id": "DOC_BD_001",
     "name": "Dr. Murshidul Arefin",
+    "achievement": "Awarded Best Cardiologist of 2023 for contribution in heart disease research.",
     "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Murshidul-Arefin.jpg",
     "specialization": "Gynecology & Obstetrics",
     "hospital": "Apollo Hospitals Dhaka",
-    "rating": 4.8
+    "rating": 4.8,
+    "reviews": 120,
+    "experience": 10
   },
   {
     "doctor_id": "DOC_BD_002",
     "name": "Dr. Mohammad Aminul Islam",
+    "achievement": "Published 15 research papers in neurology and awarded best researcher 2022.",
     "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Mohammad-Aminul-Islam.jpg",
     "specialization": "Cardiology",
     "hospital": "Square Hospital Ltd.",
-    "rating": 4.7
+    "rating": 4.7,
+    "reviews": 95,
+    "experience": 8
   },
   {
     "doctor_id": "DOC_BD_003",
     "name": "Dr. Adiba Chowdhury",
+    "achievement": "Expert in skin treatment and aesthetic dermatology, 12 years experience.",
     "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Adiba-Chowdhury.jpg",
     "specialization": "Orthopedic Surgery",
     "hospital": "Bangabandhu Sheikh Mujib Medical University (BSMMU)",
-    "rating": 4.6
+    "rating": 4.9,
+    "reviews": 150,
+    "experience": 12
   },
   {
     "doctor_id": "DOC_BD_004",
     "name": "Dr. Md. Rakibul Islam Masud",
+    "achievement": "Renowned orthopedic surgeon, specialized in joint replacement surgery.",
     "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Md.-Rakibul-Islam-Masud.jpg",
     "specialization": "Pediatrics",
     "hospital": "United Hospital Limited",
-    "rating": 4.9
+    "rating": 4.6,
+    "reviews": 110,
+    "experience": 9
   },
   {
     "doctor_id": "DOC_BD_005",
     "name": "Dr. Imtiaz Hasan",
+    "achievement": "Published 15 research papers in neurology and awarded best researcher 2022.",
     "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Imtiaz-Hasan.jpg",
     "specialization": "Medicine",
     "hospital": "Ibn Sina Hospital",
-    "rating": 4.5
+    "rating": 4.7,
+    "reviews": 95,
+    "experience": 8
   },
   {
     "doctor_id": "DOC_BD_006",
     "name": "Dr. Monwoar Kabir Sumon",
+    "achievement": "Awarded Best Cardiologist of 2023 for contribution in heart disease research.",
     "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/08/Dr.-Monwoar-Kabir-Sumon.jpg",
     "specialization": "Dermatology",
     "hospital": "Labaid Specialized Hospital",
-    "rating": 4.7
+    "rating": 4.9,
+    "reviews": 150,
+    "experience": 12
   }
 ]
 }
+
