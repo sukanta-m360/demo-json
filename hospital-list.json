@@ -2,7 +2,8 @@
   "success": true,
   "message": "Hospital list fetched successfully",
   "data": [
-    {
+    { 
+      "id":"1",
       "name": "Ibrahim Cardiac",
       "image": "https://media.istockphoto.com/id/1058679916/vector/hospital-building-isolated-vector-illustration-flat-cartoon-modern-medical-center-or-clinic.jpg?s=612x612&w=0&k=20&c=i0R2zSdfuA3yaphldGTTGV66GpeYmjYeSPhoUTQXUjo=",
       "number": "01714-006706",
@@ -13,6 +14,7 @@
       "bookmark": false
     },
     {
+       "id":"2",
       "name": "Bangladesh Specialized Hospital",
       "image": "https://dainikamadershomoy.com/_cdn/images/large/2024/04/29/news_1714366827271.webp",
       "number": "09666-700100",
@@ -23,6 +25,7 @@
       "bookmark": false
     },
     {
+       "id":"3",
       "name": "PG Hospital",
       "image": "https://media.istockphoto.com/id/1058679916/vector/hospital-building-isolated-vector-illustration-flat-cartoon-modern-medical-center-or-clinic.jpg?s=612x612&w=0&k=20&c=i0R2zSdfuA3yaphldGTTGV66GpeYmjYeSPhoUTQXUjo=",
       "number": "01740-486123",
@@ -33,6 +36,7 @@
       "bookmark": false
     },
     {
+       "id":"4",
       "name": "Anwer Khan Modern Hospital",
       "image": "https://lh3.googleusercontent.com/proxy/MiN4tQI3m85QUIiPs2P5lu7SzQBHfNXIBRyWZy8lM8U_Qo5aNBBSj4xHiJpRlrYGw7pmiwwq-AtYUPsABB-2wOjHEcoCCS-5DTF1m--R4aGCm5aMrw0d_-axWlTJf45_cXQ0u-D9MsL-r9yavR7OMbMXYA-OZ5Sr95VC-dRp_OfNDB8FdMI",
       "number": " 09678-010652",
@@ -43,6 +47,7 @@
       "bookmark": false
     },
     {
+       "id":"5",
       "name": "International Medical College and Hospital",
       "image": "https://lh3.googleusercontent.com/proxy/cylsk9y_vOtcUdXbnF3Oo3gsSxIcDcgGRW7HumuPb4_UghxwnWIlMNozysfaNMB6IhZ5QmXk_aMinmyhszQsAhF9Xr57juP1N0zDj6Nr2yzYOzwxVray0tufM_DB3-A",
       "number": " 01313-498583",
@@ -53,6 +58,7 @@
       "bookmark": false
     },
     {
+       "id":"6",
       "name": "Evercare",
       "image": "https://archhms.com/hospital/uploads/archProfileImage/gallery/642aa2ae4ea104577.jpg",
       "number": "09666-710678",
@@ -66,6 +72,7 @@
 
   ]
 }
+
 
 
 
