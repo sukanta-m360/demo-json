@@ -10,6 +10,7 @@
     "hospital": "City Heart Hospital",
     "date": "2025-09-20",
     "time": "09:30 AM",
+     "experience": "15 years",
     "contact": "01856963256",
     "fee": "1500 BDT",
     "roomNumber": "201",
@@ -23,6 +24,7 @@
     "hospital": "NeuroCare Clinic",
     "date": "2025-09-22",
     "time": "03:00 PM",
+     "experience": "10 years",
     "contact": "01856963256",
     "fee": "1500 BDT",
     "roomNumber": "201",
@@ -36,6 +38,7 @@
     "hospital": "City Heart Hospital",
     "date": "2025-09-20",
     "time": "09:30 AM",
+     "experience": "12 years",
     "contact": "01856963256",
     "fee": "1500 BDT",
     "roomNumber": "201",
@@ -49,6 +52,7 @@
     "hospital": "NeuroCare Clinic",
     "date": "2025-09-22",
     "time": "03:00 PM",
+     "experience": "15 years",
      "contact": "01856963256",
     "fee": "1500 BDT",
     "roomNumber": "201",
@@ -62,6 +66,7 @@
     "hospital": "City Heart Hospital",
     "date": "2025-09-20",
     "time": "09:30 AM",
+    "experience": "5 years",
     "contact": "01856963256",
     "fee": "1500 BDT",
     "roomNumber": "201",
@@ -75,6 +80,7 @@
     "hospital": "NeuroCare Clinic",
     "date": "2025-09-22",
     "time": "03:00 PM",
+    "experience": "12 years",
     "contact": "01856963256",
     "fee": "1500 BDT",
     "roomNumber": "201",
@@ -82,6 +88,7 @@
   }
 ]
 }
+
 
 
 
