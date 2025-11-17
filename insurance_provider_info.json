@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "message": "Insurance providers retrieved successfully",
+  "data": {
+    "providers": [
+      {
+        "id": "1",
+        "name": "HealthGuard Inc.",
+        "rating": 4.8,
+        "members": "1M+",
+        "logo_url": "https://example.com/logos/healthguard.png",
+        "description": "Comprehensive health insurance coverage",
+        "plan_types": ["Individual", "Family", "Corporate"],
+        "established_year": 1998,
+        "coverage_areas": ["Nationwide"],
+        "contact_email": "support@healthguard.com",
+        "phone": "1-800-HEALTH-GUARD"
+      },
+      {
+        "id": "2",
+        "name": "SecureLife Assurance",
+        "rating": 4.9,
+        "members": "2M+",
+        "logo_url": "https://example.com/logos/securelife.png",
+        "description": "Life and health insurance solutions",
+        "plan_types": ["Life", "Health", "Dental"],
+        "established_year": 1985,
+        "coverage_areas": ["National", "International"],
+        "contact_email": "info@securelife.com",
+        "phone": "1-800-SECURE-LIFE"
+      },
+      {
+        "id": "3",
+        "name": "Wellness First",
+        "rating": 4.7,
+        "members": "800k+",
+        "logo_url": "https://example.com/logos/wellnessfirst.png",
+        "description": "Focus on preventive care and wellness",
+        "plan_types": ["Wellness", "Preventive", "Basic"],
+        "established_year": 2005,
+        "coverage_areas": ["Regional"],
+        "contact_email": "care@wellnessfirst.com",
+        "phone": "1-800-WELLNESS"
+      },
+      {
+        "id": "4",
+        "name": "CareLink Health",
+        "rating": 4.6,
+        "members": "12M+",
+        "logo_url": "https://example.com/logos/carelink.png",
+        "description": "Largest network of healthcare providers",
+        "plan_types": ["HMO", "PPO", "Medicare"],
+        "established_year": 1972,
+        "coverage_areas": ["Nationwide"],
+        "contact_email": "connect@carelink.com",
+        "phone": "1-800-CARE-LINK"
+      },
+      {
+        "id": "5",
+        "name": "Guardian Shield",
+        "rating": 4.8,
+        "members": "950k+",
+        "logo_url": "https://example.com/logos/guardianshield.png",
+        "description": "Affordable protection for families",
+        "plan_types": ["Family", "Individual", "Student"],
+        "established_year": 1995,
+        "coverage_areas": ["National"],
+        "contact_email": "shield@guardian.com",
+        "phone": "1-800-GUARDIAN"
+      }
+    ],
+    "total_providers": 5,
+    "last_updated": "2024-01-15T10:30:00Z"
+  }
+}
